@@ -1,4 +1,4 @@
-# I2C_1602_driver---raspberry-pi
+# I2C_LCD1602_driver---raspberry-pi
 driver version for LCD1602 display on I2C bus
 
 ## What's new in my version?
@@ -15,7 +15,7 @@ driver version for LCD1602 display on I2C bus
 <i> line is an option, 1 is default value as you can see</i>
 
 ```
-import I2C_1602_driver.py as driver
+import I2C_LCD1602_driver.py as driver
 lcd1602 = driver.lcd()
 lcd1602.scroll_rl("long text to display",2)
 ```
@@ -25,7 +25,7 @@ This will display the text string on line 2.
 `backlight_alarm(alarms=2)`
 <i> by default it switches Backlight 2 times</i>
 ```
-import I2C_1602_driver.py as driver
+import I2C_LCD1602_driver.py as driver
 lcd1602 = driver.lcd()
 lcd1602.backlight_alarm()
 ```
@@ -38,7 +38,7 @@ lcd1602.backlight_alarm()
 <br>
 
 ```
-import I2C_1602_driver.py as driver
+import I2C_LCD1602_driver.py as driver
 lcd1602 = driver.lcd()
 # Create object progressbar
 progbar = driver.ProgressBar(lcd1602)
