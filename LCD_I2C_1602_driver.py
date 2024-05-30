@@ -11,7 +11,7 @@
 # https://custom-characters-for-lcd16x2.streamlit.app/
 ########
 # github.com/framboise-pi ### Camille Lafontaine <codelibre.fr>
-# 2024-april LCD_I2C_1602_driver.py ver 0.1
+# 2024-april LCD1602_I2C_driver.py ver 0.1
 #
 #
 #  ▄▄·       ·▄▄▄▄  ▄▄▄ .▄▄▌  ▪  ▄▄▄▄· ▄▄▄  ▄▄▄ .   ·▄▄▄▄▄▄  
