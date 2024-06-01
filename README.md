@@ -1,7 +1,7 @@
 # LCD1602_I2C_driver.py---raspberry-pi
 driver version for LCD1602 display on I2C bus
 
-https://github.com/the-raspberry-pi-guy/lcd
+The original code I used: https://github.com/the-raspberry-pi-guy/lcd
 
 ## What's new in my version?
 <ul>
