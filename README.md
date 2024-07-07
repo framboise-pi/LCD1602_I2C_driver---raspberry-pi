@@ -1,9 +1,9 @@
 # LCD1602_I2C_driver.py---raspberry-pi
 driver version for LCD1602 display on I2C bus
 
-The original code I used: https://github.com/the-raspberry-pi-guy/lcd
+The original code : https://github.com/the-raspberry-pi-guy/lcd
 
-## What's new in my version?
+## What's new in this version?
 <ul>
   <li>display a progress bar - with options</li>
   <li>scroll text from right to left - with options</li>
